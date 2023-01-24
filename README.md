@@ -26,7 +26,7 @@ This project was created based on [ACF Documentation](https://www.advancedcustom
 
 ## Setup
 
-To run this project, install it locally using npm and run default gulp commend:
+To run this project, install it locally using npm and run default gulp command:
 
 ```
 $ npm install
